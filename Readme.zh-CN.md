@@ -4,7 +4,7 @@
  <img width=200px height=200px src="https://raw.githubusercontent.com/zpyuan6/speech_to_text_for_the_elderly/main/app/src/main/res/drawable-xxxhdpi/ic_mic.png" alt="Project logo"></a>
 </p>
 
-<h3 align="center">Speech-to-text for the elderly</h3>
+<h3 align="center">为老人设计的语音识别辅助应用</h3>
 
 <!-- <div align="center">
 
@@ -17,7 +17,7 @@
 
 ---
 
-<p align="center"> 简短几行来描述你的项目
+<p align="center"> 老人专业的语音识别工具
     <br> 
 </p>
 
@@ -33,7 +33,11 @@
 - [致谢](#acknowledgement)
 
 ## 🧐 关于 <a name = "about"></a>
-关于你项目的目的，写1-2个段落。
+这个应用程序是为那些希望与有听力障碍的老人沟通的人开发的。通过语音识别技术，该应用程序将语音实时转换为文本，并以用户友好的方式呈现。主要功能包括：
+- 语音识别（中文）
+- 将语音识别结果以文本格式呈现
+- 修改文本大小
+- 清理文本
 
 ## 🏁 快速开始 <a name = "getting_started"></a>
 这些指令会让你复制整个项目，并在本地机器上运行以进行开发和测试。
