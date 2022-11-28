@@ -13,8 +13,8 @@ Main function includes:
 - Modify the text size
 - Clean the text
 
-![f79574c487e2f79e7a81abc0a81f39c](https://user-images.githubusercontent.com/97244637/204323990-3dbc84da-bae1-4fba-bdd8-c84007457c18.jpg)
-![39c93776bb37c3f074a56c4f1c2ff51](https://user-images.githubusercontent.com/97244637/204324023-04dedff3-d749-48d8-8422-c0ea9edc10b3.jpg)
+![f79574c487e2f79e7a81abc0a81f39c](https://user-images.githubusercontent.com/97244637/204323990-3dbc84da-bae1-4fba-bdd8-c84007457c18.jpg =200)
+![39c93776bb37c3f074a56c4f1c2ff51](https://user-images.githubusercontent.com/97244637/204324023-04dedff3-d749-48d8-8422-c0ea9edc10b3.jpg =200)
 
 ## Next Steps
 For the next phase, I have two tasks planned.
