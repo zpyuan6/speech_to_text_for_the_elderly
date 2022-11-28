@@ -1,3 +1,4 @@
+English|[简体中文](https://github.com/zpyuan6/speech_to_text_for_the_elderly/blob/main/README.zh-CN.md)
 # Speech-to-text for the elderly
 #### [Releases](https://github.com/zpyuan6/speech_to_text_for_the_elderly/releases)
 
