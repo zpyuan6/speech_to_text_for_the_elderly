@@ -14,11 +14,10 @@ Main function includes:
 - Clean the text
 
 <div align="center">
-	<img src="https://user-images.githubusercontent.com/97244637/204323990-3dbc84da-bae1-4fba-bdd8-c84007457c18.jpg" alt="Editor" width="500">
+	<img src="https://user-images.githubusercontent.com/97244637/204323990-3dbc84da-bae1-4fba-bdd8-c84007457c18.jpg" alt="Editor" width="300">
+	<img src="https://user-images.githubusercontent.com/97244637/204324023-04dedff3-d749-48d8-8422-c0ea9edc10b3.jpg" alt="Editor" width="300">
 </div>
 
-![f79574c487e2f79e7a81abc0a81f39c](https://user-images.githubusercontent.com/97244637/204323990-3dbc84da-bae1-4fba-bdd8-c84007457c18.jpg){:height="30%"}
-![39c93776bb37c3f074a56c4f1c2ff51](https://user-images.githubusercontent.com/97244637/204324023-04dedff3-d749-48d8-8422-c0ea9edc10b3.jpg){:height="30%"}
 
 ## Next Steps
 For the next phase, I have two tasks planned.
