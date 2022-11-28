@@ -1,7 +1,7 @@
 [English](https://github.com/zpyuan6/speech_to_text_for_the_elderly/blob/main/README.md)|简体中文
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="[https://i.imgur.com/6wj0hh6.jpg"](https://github.com/zpyuan6/speech_to_text_for_the_elderly/blob/main/app/src/main/res/drawable-xxxhdpi/ic_mic.png) alt="Project logo"></a>
+ <img width=200px height=200px src="https://raw.githubusercontent.com/zpyuan6/speech_to_text_for_the_elderly/main/app/src/main/res/drawable-xxxhdpi/ic_mic.png" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Speech-to-text for the elderly</h3>
