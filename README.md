@@ -1,5 +1,5 @@
 # Speech-to-text for the elderly
-#### [https://github.com/gotev/android-speech/releases/latest](https://github.com/zpyuan6/speech_to_text_for_the_elderly/releases)
+#### [![Status](https://img.shields.io/badge/status-active-success.svg)]() [![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/zpyuan6/speech_to_text_for_the_elderly/issues) [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/zpyuan6/speech_to_text_for_the_elderly/pulls) [https://github.com/gotev/android-speech/releases/latest](https://github.com/zpyuan6/speech_to_text_for_the_elderly/releases)
 
 This is a speech-to-text mobile application for the elderly with hearing impairments.
 This application rely on the [net.gotev:speech](https://github.com/gotev/android-speech) open source package, which make my work very easy. Thanks for their work.
