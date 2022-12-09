@@ -4,7 +4,7 @@
  <img width=200px height=200px src="https://raw.githubusercontent.com/zpyuan6/speech_to_text_for_the_elderly/main/app/src/main/res/drawable-xxxhdpi/ic_mic.png" alt="Project logo"></a>
 </p>
 
-<h3 align="center">为老人设计的语音识别辅助应用</h3>
+<h3 align="center">为听力障碍老人设计的语音识别辅助应用</h3>
 
 <!-- <div align="center">
 
@@ -17,7 +17,7 @@
 
 ---
 
-<p align="center"> 老人专业的语音识别工具
+<p align="center"> 针对老人的语音识别工具
     <br> 
 </p>
 
@@ -41,11 +41,13 @@
 
 ## 🏁 快速开始 <a name = "getting_started"></a>
 这些指令会让你复制整个项目，并在本地机器上运行以进行开发和测试。
-查看[部署](#deployment)，获取如何在线上系统部署的信息。
+查看[部署](#deployment)，获取如何在对该Android项目进行编译生成Apk
 
 ### 准备工作
 
-需要哪些软件以及如何安装它们。
+目前，该项目依赖于Microsft Azure的Speech service，因此为开始使用前，需要创建Azure Speech Service资源，跟随[此文档](https://learn.microsoft.com/en-us/azure/cognitive-services/speech-service/get-started-speech-to-text?tabs=windows%2Cterminal&pivots=programming-language-java)的引导。
+
+在Speech Service资源中获得key后，将key与location/region复制到android项目下的local.properties文件中。
 
 ```
 例子
